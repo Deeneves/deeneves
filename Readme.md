@@ -9,9 +9,9 @@ Sou entusiasta da programação, formado em sistemas de informação e pós-grad
 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeneves&show_icons=true&theme=default&count_private=true&hide=issues&custom_title=Estatísticas%20do%20GitHub)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeneves&layout=compact&theme=default&langs_count=6&card_width=320)
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeneves&show_icons=true&theme=default&count_private=true&hide=issues" height="150px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeneves&layout=compact&theme=default&langs_count=6" height="150px" />
 
 </div>
 
@@ -19,8 +19,7 @@ Sou entusiasta da programação, formado em sistemas de informação e pós-grad
 
 ## 📈 Totalizações
 
-- 🔥 **Commits (privados + públicos):** [![](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=%24.totalCommits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Fusers%2Fdeeneves)](https://github.com/deeneves)
-
+- 🔥 **Commits em 2025 (públicos):** 3
 - 🛠️ **Principais Linguagens:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,5 +29,7 @@ Sou entusiasta da programação, formado em sistemas de informação e pós-grad
 ---
 
 ## 📫 Contato
-- Email: 1506.andre@gmail.com
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/1506andre
+- 📧 Email: [1506.andre@gmail.com](mailto:1506.andre@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/1506andre](https://linkedin.com/in/1506andre)
+
+
