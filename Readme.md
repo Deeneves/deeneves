@@ -19,7 +19,7 @@ Sou entusiasta da programação, formado em sistemas de informação e pós-grad
 
 ## 📈 Totalizações
 
-- 🔥 **Commits (privados + públicos):** [![](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=%24.totalCommits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Fusers%2Fdeeneves)](https://github.com/**SEU_USUARIO_GITHUB**)
+- 🔥 **Commits (privados + públicos):** [![](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=%24.totalCommits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Fusers%2Fdeeneves)](https://github.com/deeneves)
 
 - 🛠️ **Principais Linguagens:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
